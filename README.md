@@ -1,0 +1,2 @@
+-Fibonacci search
+-Golden section method
